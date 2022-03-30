@@ -11,7 +11,7 @@ c.pack()
 d=13
 s=13
 t=13
-l=13
+l= 13
 
 scoreP1 = 0
 scoreP2 = 0
